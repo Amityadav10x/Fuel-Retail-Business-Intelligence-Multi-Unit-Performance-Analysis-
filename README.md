@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+    <title>Fuel & Retail Business Intelligence: Multi-Unit Performance Analysis</title>
 </head>
 <body>
     <h1>Fuel & Retail Business Intelligence: Multi-Unit Performance Analysis</h1>
@@ -11,7 +11,7 @@
         This project provides a comprehensive analysis of <strong>fuel distribution</strong> and <strong>retail operations</strong>, tracking <strong>₹49.76bn in combined revenue</strong> and <strong>₹3.89bn in profit</strong> across multiple cities and regions. Using <strong>Power BI</strong> and <strong>DAX Measures</strong>, the analysis delivers insights into revenue drivers, regional performance, payment trends, and category profitability. These insights enable leadership to make data-driven strategic decisions for resource allocation, pricing optimization, and business growth.
     </p>
 
-  <h2>1. Fuel Business Insights — Reliance</h2>
+<h2>1. Fuel Business Insights — Reliance</h2>
     <p>
         The fuel business analysis examines operational performance across fuel types, payment modes, and regional contributions. It highlights capacity utilization, pricing strategies, and top-performing stations to guide inventory management and expansion planning.
     </p>
@@ -27,10 +27,9 @@
     <p>
         This analysis identifies high-performing regions, payment trends, and fuel types to optimize pricing and resource allocation strategies.
     </p>
-    <!-- Insert Fuel Business Insights Dashboard Image -->
-    <img src="screenshots/fuel_business_insights.jpg" alt="Fuel Business Insights Dashboard">
+    <img src="https://drive.google.com/uc?export=view&id=19A8v4FzdEn4pNisg0FuxTREnjgZtjQCa" alt="Fuel Business Insights — Regional Performance Analysis">
 
-  <h2>2. Fuel Regional & Station Performance</h2>
+ <h2>2. Fuel Regional & Station Performance</h2>
     <p>
         The regional performance analysis examines how different areas contribute to overall fuel profitability. It also evaluates individual station efficiency and monthly capacity utilization trends to identify underperforming stations and expansion opportunities.
     </p>
@@ -45,10 +44,9 @@
     <p>
         This analysis helps prioritize infrastructure investments and targeted marketing campaigns in high-profit regions.
     </p>
-    <!-- Insert Fuel Regional Performance Dashboard Image -->
-    <img src="screenshots/fuel_regional_performance.jpg" alt="Fuel Regional & Station Performance Dashboard">
+    <img src="https://drive.google.com/uc?export=view&id=1lw0AoHDUEiuTpCc7Xn0Dis0ZK-Zk1_sd" alt="Fuel Business Insights — Advanced Analytics & Trends">
 
-  <h2>3. Retail Business Insights — JioMart</h2>
+ <h2>3. Retail Business Insights — JioMart</h2>
     <p>
         The retail business analysis focuses on category performance, channel effectiveness, and manager-level profitability. It tracks revenue, profit margins, return rates, and customer purchasing behavior to guide inventory decisions and promotional strategies.
     </p>
@@ -64,10 +62,25 @@
     <p>
         This analysis highlights high-margin categories and effective sales channels, enabling targeted promotions and inventory optimization.
     </p>
-    <!-- Insert Retail Business Insights Dashboard Image -->
-    <img src="screenshots/retail_business_insights.jpg" alt="Retail Business Insights Dashboard">
+    <img src="https://drive.google.com/uc?export=view&id=1OfpxJPxZ7ftW9Lxm0L0LfC1bVVSTS_db" alt="Retail Business Insights — Manager & Regional Performance">
 
-  <h2>4. Executive Overview — Combined Performance</h2>
+  <h2>4. Retail Category & Channel Performance</h2>
+    <p>
+        This dashboard provides a deeper dive into retail category contributions, channel distribution, and category-wise return rates. It helps identify the most profitable product lines and optimal sales channels for inventory planning.
+    </p>
+    <ul>
+        <li><strong>Electronics Category:</strong> Dominates with ₹594.61M revenue (76.4% share)</li>
+        <li><strong>Channel Performance:</strong> Offline leads with ₹459.47M (59.1%), Online at ₹318.14M (40.9%)</li>
+        <li><strong>Return Rate Analysis:</strong> Electronics shows 3% return rate despite being the highest revenue generator</li>
+        <li><strong>Category Trends:</strong> Monthly retail revenue shows seasonality with peak in January (₹162.6M) and decline towards June (₹104.8M)</li>
+        <li><strong>Payment Method:</strong> 100% UPI tracked transactions across retail operations</li>
+    </ul>
+    <p>
+        This analysis enables strategic decisions around product mix, inventory allocation, and channel investment priorities.
+    </p>
+    <img src="https://drive.google.com/uc?export=view&id=1vwGeO4zyzHr1yA__lPaP2Gsbix-WU33t" alt="Retail Business Insights — Category & Channel Performance">
+
+  <h2>5. Executive Overview — Combined Performance</h2>
     <p>
         The executive overview provides a unified view of fuel and retail operations, tracking monthly revenue trends, regional profitability, and year-to-date (YTD) performance. It enables leadership to monitor overall business health and make strategic decisions.
     </p>
@@ -82,10 +95,9 @@
     <p>
         This dashboard provides leadership with a single source of truth for performance tracking and strategic planning.
     </p>
-    <!-- Insert Executive Overview Dashboard Image -->
-    <img src="screenshots/executive_overview.jpg" alt="Executive Overview Dashboard">
+    <img src="https://drive.google.com/uc?export=view&id=12oB7YlroYXkRN_QIdTQSz7ZRu7Z3G-C3" alt="Executive Overview — Combined Business Performance">
 
-  <h2>Tools & Techniques Used</h2>
+<h2>Tools & Techniques Used</h2>
     <p>
         The following tools and methods were used for the analysis:
     </p>
@@ -96,20 +108,24 @@
         <li><strong>SQL:</strong> Extracted and preprocessed data from operational databases</li>
         <li><strong>Data Modeling:</strong> Established relationships between fuel, retail, geography, and time dimensions</li>
     </ul>
-    <h2>Conclusion</h2>
+
+  <h2>Conclusion</h2>
     <p>
         This project offers leadership a comprehensive, data-driven view of fuel and retail operations. By understanding regional performance, payment trends, category profitability, and manager effectiveness, the business can strategically allocate resources, optimize pricing, and drive growth across both units. The unified executive dashboard ensures all stakeholders have access to real-time insights for faster, smarter decision-making.
     </p>
 
-   <hr>
+  <hr>
 
    <h3>📧 Contact</h3>
     <p>
         <strong>Amit Yadav</strong><br>
         Data Analyst | Business Intelligence Specialist<br><br>
+        <strong>Email:</strong> amityadav10x@gmail.com<br>
+        <strong>Phone:</strong> 6354399293<br>
         <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yadavamit10x">linkedin.com/in/yadavamit10x</a><br>
         <strong>Portfolio:</strong> <a href="https://amityadav10x.github.io/Portfolio_Website/">amityadav10x.github.io/Portfolio_Website</a><br>
         <strong>GitHub:</strong> <a href="https://github.com/Amityadav10x">github.com/Amityadav10x</a>
     </p>
 </body>
 </html>
+
