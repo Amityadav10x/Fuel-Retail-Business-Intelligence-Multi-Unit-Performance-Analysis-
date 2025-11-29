@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fuel & Retail Business Intelligence: Multi-Unit Performance Analysis</title>
+    
 </head>
 <body>
     <h1>Fuel & Retail Business Intelligence: Multi-Unit Performance Analysis</h1>
